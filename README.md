@@ -10,7 +10,4 @@
 - ⚡ Fun fact: I have a dog
 
 - 📫 How to reach me: 
-
-## My instagram
-![IG Feed](https://snapwidget.com/embed/865408)
-
+--Comming soon
