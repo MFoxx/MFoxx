@@ -1,16 +1,18 @@
 ### Hello there 👋
 ![Hello there](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fnerdist.com%2Fwp-content%2Fuploads%2F2017%2F08%2FObi-Wan-Hello-08182017.gif&f=1&nofb=1)
-<!--
-**MFoxx/MFoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on buidling webdesign studio I co-founded, and creating open-source robots.
+- 🌱 I’m currently learning JavaScript and Python
+- 👯 I’m looking to collaborate on everything!
+- 🤔 I’m looking for help with currenlty nothing, but I'll let you know
+- 💬 Ask me about my VSCode theme || my favorite JS framework
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have a dog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+
+## My instagram
+<!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/865408" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
+
+
