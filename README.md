@@ -12,7 +12,5 @@
 - 📫 How to reach me: 
 
 ## My instagram
-<!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/865408" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
-
+![IG Feed](https://snapwidget.com/embed/865408)
 
