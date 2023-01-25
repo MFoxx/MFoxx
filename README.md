@@ -2,13 +2,13 @@
 <h3 align="center">FullStack webdeveloper from Slovakia</h3>
 
 
-- 🔭 I’m currently working as fullstack developer at webdesign studio I co-founded. Hit us up - [G&G Studio](https://www.ggstudio.digital)
+- 🔭 I’m currently working as fullstack developer at webdesign studio I co-founded. Hit us up - [G&G Studio](https://www.ggstudio.sk)
 
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **space/NodeJS/productivity**
 
-- 📫 How to reach me **michal@ggstudio.digital**
+- 📫 How to reach me **michal@ggstudio.sk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
